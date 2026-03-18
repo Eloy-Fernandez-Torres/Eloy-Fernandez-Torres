@@ -1,4 +1,3 @@
-
 # Hi! I´m Eloy Fernández Torres 
 
 I am a responsible and punctual individual with a strong desire to learn and grow. I am currently seeking for a new professional experience in Web Application Development and the tech industry, where I can contribute my positive attitude, energy, and commitment. I adapt quickly to new environments, enjoy teamwork, and maintain a mindset of continuous improvement to grow in every project
@@ -37,9 +36,9 @@ I am a responsible and punctual individual with a strong desire to learn and gro
 * **Full-Stack Development & APIs:** Designed Frontend and Backend applications with advanced integration of external APIs to optimize data flows.
 * **Internal Software:** Created local network tools aimed at improving productivity and digitizing company operational processes.
 * **Gamification & Web Presence:** Developed the corporate web platform, integrating educational video game modules for technical marketing and training purposes.
+### 📂 Github
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eloy-Fernandez-Torres&theme=merko&border_radius=6.3)](https://git.io/streak-stats)
 ### 📫 Contact Me
 * **Location:** Valdemoro, Madrid, Spain.
 * **Email:** [eloy.fernandez.torres1@gmail.com](mailto:eloy.fernandez.torres1@gmail.com).
 * **Phone:** 601 20 86 05.
-### 📂 Github
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eloy-Fernandez-Torres&theme=merko&border_radius=6.3)](https://git.io/streak-stats)
