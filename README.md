@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="githubBanner.png" alt="Eloy Fernández Banner" width="100%">
+</p>
+
 # Hi! I´m Eloy Fernández Torres 
 
 I am a responsible and punctual individual with a strong desire to learn and grow. I am currently seeking for a new professional experience in Web Application Development and the tech industry, where I can contribute my positive attitude, energy, and commitment. I adapt quickly to new environments, enjoy teamwork, and maintain a mindset of continuous improvement to grow in every project
