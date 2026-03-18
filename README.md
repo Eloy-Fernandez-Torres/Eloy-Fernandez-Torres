@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="githubBanner.png" alt="Eloy Fernández Banner" width="100%" height="75">
+  <img src="githubBanner.png" alt="Eloy Fernández Banner" width="100%" height="75%">
 </p>
 
 # Hi! I´m Eloy Fernández Torres 
