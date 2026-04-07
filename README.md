@@ -40,8 +40,8 @@ I am a responsible and punctual individual with a strong desire to learn and gro
 * **Full-Stack Development & APIs:** Designed Frontend and Backend applications with advanced integration of external APIs to optimize data flows.
 * **Internal Software:** Created local network tools aimed at improving productivity and digitizing company operational processes.
 * **Gamification & Web Presence:** Developed the corporate web platform, integrating educational video game modules for technical marketing and training purposes.
-### 📂 Github
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eloy-Fernandez-Torres&theme=merko&border_radius=6.3)](https://git.io/streak-stats)
+<!--### 📂 Github
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eloy-Fernandez-Torres&theme=merko&border_radius=6.3)](https://git.io/streak-stats) -->
 ### 📫 Contact Me
 * **Location:** Valdemoro, Madrid, Spain.
 * **Email:** [eloy.fernandez.torres1@gmail.com](mailto:eloy.fernandez.torres1@gmail.com).
