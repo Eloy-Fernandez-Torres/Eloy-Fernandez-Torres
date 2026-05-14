@@ -52,6 +52,6 @@ During my professional experience, I have successfully integrated systems and im
 * **📍 Location:** Valdemoro, Madrid, Spain.
 * **📧 Email:** [eloy.fernandez.torres1@gmail.com](mailto:eloy.fernandez.torres1@gmail.com)
 * **📞 Phone:** 601 20 86 05
-* **🔗 LinkedIn:** [linkedin.com/in/eloy-fernandez-torres](https://linkedin.com/in/eloy-fernandez-torres)
+* **🔗 LinkedIn:** [linkedin.com/in/eloy-fernandez-torres]([https://linkedin.com/in/eloy-fernandez-torres](https://www.linkedin.com/in/eloy-fern%C3%A1ndez-torres-ba42083b8/))
 
 ---
